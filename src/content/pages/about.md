@@ -2,19 +2,17 @@
 title: About
 seo:
   title: About Me
-  description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences.
+  description: Learn more about Boort Veterinary Services and what they offer.
   image:
     src: '/about.jpeg'
-    alt: A person sitting at a desk in front of a computer
+    alt: Boort Veterinary Services Logo
 ---
 
 ![Alt text for image](/about.jpeg)
 
-**Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## Boort Veterinary Services - Web Developer based in Estonia
 
-## Ethan Donovan - Web Developer based in Estonia
-
-**Greetings!** I'm Ethan Donovan, a passionate web developer residing in the picturesque landscapes of [Estonia](https://en.wikipedia.org/wiki/Estonia). With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
+**Greetings!** At Boort veterinary services we offer consultation (small and large animals), vaccination, microchipping, surgery, radiography, dentistry, herd health advice, grooming and more. Please contact the clinic with any queries
 
 ## Skills and Expertise
 
