@@ -38,7 +38,7 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'BVS',
+    title: 'Boort Veterinary Services',
     subtitle: 'Info, Contact and Opening Hous.',
     description: 'BVS web site, providing information to clients.',
     image: {
@@ -50,17 +50,14 @@ const siteConfig: SiteConfig = {
             href: '/'
         },
         {
-            text: 'Projects',
+            text: 'Opening Hours',
             href: '/projects'
         },
         {
             text: 'Blog',
             href: '/blog'
         },
-        {
-            text: 'Tags',
-            href: '/tags'
-        }
+        
     ],
     footerNavLinks: [
         {
@@ -82,7 +79,7 @@ const siteConfig: SiteConfig = {
         
     ],
     hero: {
-        title: 'Hi There & Welcome to Boort Veterinary Services!',
+        title: 'Welcome to Boort Veterinary Services!',
         text: "At Boort veterinary services we offer consultation (small and large animals), vaccination, microchipping, surgery, radiography, dentistry, herd health advice, grooming and more. Please contact the clinic with any queries, 8:30-17:00 M-F or follow me on <a href='https://www.facebook.com/boortvets'>Facebook</a>.",
         image: {
             src: '/hero.jpeg',
