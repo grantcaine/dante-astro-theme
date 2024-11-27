@@ -16,11 +16,7 @@ export type Hero = {
     actions?: Link[];
 };
 
-export type Subscribe = {
-    title?: string;
-    text?: string;
-    formUrl: string;
-};
+
 
 export type SiteConfig = {
     logo?: Image;
@@ -32,9 +28,6 @@ export type SiteConfig = {
     footerNavLinks?: Link[];
     socialLinks?: Link[];
     hero?: Hero;
-    subscribe?: Subscribe;
-    postsPerPage?: number;
-    projectsPerPage?: number;
 };
 
 const siteConfig: SiteConfig = {
@@ -52,10 +45,6 @@ const siteConfig: SiteConfig = {
         {
             text: 'Opening Hours',
             href: '/projects'
-        },
-        {
-            text: 'Blog',
-            href: '/blog'
         },
         
     ],
